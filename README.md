@@ -50,11 +50,11 @@ This project was an interesting exploration into the possibility of predicting a
 >[@Raymond Shao](https://github.com/rsha0)
 
 ## References: 🔗
-1.For data on drug usage<https://www.samhsa.gov/data/release/2020-national-survey-drug-use-and-health-nsduh-releases>
-2.For information on addiction treatment<https://nida.nih.gov/about-nida/noras-blog/2022/01/making-addiction-treatment-more-realistic-pragmatic-perfect-should-not-be-enemy-good>
-3.To learn more about health claims analysis<https://www.udemy.com/course/data-science-for-healthcare-claims-data/learn/lecture/24373414#overview>
-4.Methadone usage<https://www.healthdirect.gov.au/methadone#:~:text=Methadone%20is%20prescribed%20for%20the,work%20or%20cannot%20be%20tolerated.>
-5.Logistic Regression using sklearn<https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a>
+1. Arrindell D., 'Data Science for Healthcare Claims Data', last updated August 2023, retrieved and completed course on April 17th 2023: <https://www.udemy.com/course/data-science-for-healthcare-claims-data/learn/lecture/24373414#overview>
+2. Galarnyk M., 'Logistic Regression using Python (scikit-learn)', published on September 14th 2017, retrieved on April 15th 2023: <https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a>
+3. Health Direct, 'Methadone', publishing date unknown, retrieved on April 18th 2023: <https://www.healthdirect.gov.au/methadone#:~:text=Methadone%20is%20prescribed%20for%20the,work%20or%20cannot%20be%20tolerated.>
+4. National Institute on Drug Abuse (US), 'Making Addiction Treatment More Realistic and Pragmatic: The Perfect Should Not be the Enemy of the Good', published on January 4th 2022, retrieved on April 17th 2023: <https://nida.nih.gov/about-nida/noras-blog/2022/01/making-addiction-treatment-more-realistic-pragmatic-perfect-should-not-be-enemy-good>
+5. Substance Abuse and Mental Health Services Administration (US), '2020 National Survey of Drug Use and Health (NSDUH) Releases', published on 2020, retrieved on April 15th 2023: <https://www.samhsa.gov/data/release/2020-national-survey-drug-use-and-health-nsduh-releases>
 
 
 
